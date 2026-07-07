@@ -1,0 +1,23 @@
+# Модели и веса
+*.pkl
+*.task
+
+
+# Выходные видео и логи
+output.avi
+output.mp4
+*.log
+
+# Датасеты
+data/
+dataset/
+*.csv
+
+# Виртуальное окружение
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.pyc
+__pycache__/
